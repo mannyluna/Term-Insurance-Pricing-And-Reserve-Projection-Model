@@ -81,7 +81,6 @@ Super Preferred NT | RR60         |
 Preferred NT	     | RR80         |
 Standard NT	       | RR100        |
 
-Future Enhancements
 
 ## **Planned improvements include:**
 * Adjustment to the mortality rates based on carrier experience
